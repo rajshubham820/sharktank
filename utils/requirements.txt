@@ -1,0 +1,3 @@
+pytablewriter
+toml
+tqdm
